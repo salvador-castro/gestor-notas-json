@@ -89,6 +89,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 For any questions, suggestions, or collaboration opportunities, reach out via:
 
-🔗 **GitHub:** [Salvador Castro](https://github.com/salvador-castro/gestor-notas-json)  
+🔗 **GitHub:** [Salvador Castro](https://github.com/salvador-castro/)  
 
 🚀 Happy Coding! 💻📌
